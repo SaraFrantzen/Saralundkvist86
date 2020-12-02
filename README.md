@@ -30,7 +30,7 @@ CI - Semaphore | CD - Netlify & Heroku
 
 
 
-- 🌱 saralundkvist.netlify.app
-- 📫 Saralundkvist86@gmail.com
+[🌱 Portfolio](https://saralundkvist.netlify.app/) <br />
+📫 Saralundkvist86@gmail.com
 
 
