@@ -1,4 +1,5 @@
-### Working with:
+🌱
+<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saralundkvist86&layout=compact&theme=tokyonight&langs_count=6)
 
@@ -7,8 +8,8 @@
 
 
 
+<br>
 
-🌱
-📫 Saralundkvist86@gmail.com
+📫 Sara.Lundqvist@epidemicsound.com
 
 
