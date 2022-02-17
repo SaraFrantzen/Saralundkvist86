@@ -1,4 +1,4 @@
-🌱 Fullstack dev in music discovery
+🌱 Fullstack dev in collaboration & live
 
 
 
